@@ -1,0 +1,2 @@
+# netbook
+temp_asset
